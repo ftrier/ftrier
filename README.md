@@ -26,5 +26,3 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
-
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ftrier&show_icons=true&locale=en&layout=compact" alt="ftrier" /></p>
